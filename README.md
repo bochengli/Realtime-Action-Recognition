@@ -307,3 +307,5 @@ The performance is bad for (1) people who have different body shape, (2) people 
 Besides, my simple tracking algorithm only works for a few number of people (maybe 5). 
 
 Due to the not-so-good performance of action recognition, I guess you can only use this project for course demo, but not for any commercial applications ... T.T 
+# Recommended config on Mobile platform
+e.g. an i7 with GTX laptop should reduce its resolution to get higher FPS. or it won't run smoothly and the screen may frozen.
